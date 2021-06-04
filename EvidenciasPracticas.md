@@ -60,11 +60,11 @@
 
 ![m03Lab02_9](Evidencia/m03Lab02_9.PNG)
 
-![m03Lab02_10](Evidencid/m03Lab02_10.PNG)
+![m03Lab02_10](Evidencia/m03Lab02_10.PNG)
 
-![m03Lab02_11](Evidencid/m03Lab02_11.PNG)
+![m03Lab02_11](Evidencia/m03Lab02_11.PNG)
 
-![m03Lab02_12](Evidencid/m03Lab02_12.PNG)
+![m03Lab02_12](Evidencia/m03Lab02_12.PNG)
 
 ##Module 3: Get started with Power Apps PART3 M03Lab03
 
