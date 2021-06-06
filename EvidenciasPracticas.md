@@ -119,11 +119,30 @@
 ![m04Lab01_9](Evidencia/m04Lab01_9.PNG)
 
 ##Module 5: Get Started with Power BI M05Lab01
-###Lab: How to build a simple dashboard
-###Create Power BI Report
+###1.Lab: How to build a simple dashboard
+###2.Create Power BI Report
 
 ![m05Lab01_1](Evidencia/m05Lab01_1.PNG)
 ![m05Lab01_2](Evidencia/m05Lab01_2.PNG)
 
-###Tarea 3: Crear gráficos y visualizaciones de tiempo
+###Task #3: Create Chart and Time Visualizations
 ![m05Lab01_3](Evidencia/m05Lab01_3.PNG)
+
+###Exercise #2: Create Power BI Dashboard
+![m05Lab01_4](Evidencia/m05Lab01_4.PNG)
+![m05Lab01_5](Evidencia/m05Lab01_5.PNG)
+
+###Task #3: Add Visualizations Using Natural Language
+![m05Lab01_6](Evidencia/m05Lab01_6.PNG)
+
+###Task #4: Build Mobile Phone View and Share a Report with a QR Code
+![m05Lab01_7](Evidencia/m05Lab01_7.PNG)
+
+##Module 6: Intro to Power Virtual Agents M06Lab01
+###Lab: How to build a basic chatbot
+###Exercise #1: Sign up for PVA and Create a New Bot
+![m06Lab01_1](Evidencia/m06Lab01_1.PNG)
+
+###Exercise #2: Create Topics
+![m06Lab01_2](Evidencia/m06Lab01_2.PNG)
+![m06Lab01_3](Evidencia/m06Lab01_3.PNG)
