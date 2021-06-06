@@ -121,3 +121,9 @@
 ##Module 5: Get Started with Power BI M05Lab01
 ###Lab: How to build a simple dashboard
 ###Create Power BI Report
+
+![m05Lab01_1](Evidencia/m05Lab01_1.PNG)
+![m05Lab01_2](Evidencia/m05Lab01_2.PNG)
+
+###Tarea 3: Crear gráficos y visualizaciones de tiempo
+![m05Lab01_3](Evidencia/m05Lab01_3.PNG)
