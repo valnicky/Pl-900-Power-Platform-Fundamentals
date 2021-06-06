@@ -146,3 +146,17 @@
 ###Exercise #2: Create Topics
 ![m06Lab01_2](Evidencia/m06Lab01_2.PNG)
 ![m06Lab01_3](Evidencia/m06Lab01_3.PNG)
+![m06Lab01_4](Evidencia/m06Lab01_4.PNG)
+![m06Lab01_5](Evidencia/m06Lab01_5.PNG)
+
+###Exercise #3: Test Topics
+![m06Lab01_6](Evidencia/m06Lab01_6.PNG)
+![m06Lab01_7](Evidencia/m06Lab01_7.PNG)
+
+###Exercise #4: Change the Greeting
+![m06Lab01_8](Evidencia/m06Lab01_8.PNG)
+![m06Lab01_9](Evidencia/m06Lab01_9.PNG)
+
+###Exercise #5: Publish the Bot (https://web.powerva.microsoft.com/canvas?cci_bot_id=071e4fe5-a1df-42e4-a4e2-d2aa5c3747f9&cci_tenant_id=4849137a-bad1-4d87-a9f6-2ab4819329b9)
+![m06Lab01_10](Evidencia/m06Lab01_10.PNG)
+![m06Lab01_11](Evidencia/m06Lab01_11.PNG)
